@@ -1,4 +1,4 @@
-# RESTFul web service
+# RESTful web service
 
 An app build with the following technology stack:
 + Node
